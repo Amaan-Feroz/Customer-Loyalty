@@ -1,0 +1,2 @@
+Before running dataBucket.sql must be imported into a database called dataBucket locally using the syntax :
+mysql -u root -p dataBucket < dataBucket.sql
